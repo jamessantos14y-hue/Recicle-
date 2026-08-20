@@ -116,7 +116,7 @@ const PONTOS_COLETA_SELETIVA: PontoColetaSeletiva[] = [
   { id: 11, nome: "Praça João Batista Rios e Mercado Central", latitude: -2.921546, longitude: -39.913384, tipo: "COLETOR_RECICLAVEL" },
   { id: 12, nome: "EMEF Padre Aristides Andrade Sales", latitude: -2.924067, longitude: -39.910794, tipo: "COLETOR_RECICLAVEL" },
   { id: 13, nome: "Posto de Saúde de São Vicente", latitude: -2.930523, longitude: -39.891862, tipo: "COLETOR_RECICLAVEL" },
-  { id: 14, nome: "Guarda Municipal de Itarema", latitude: -2.926045, longitude: -39.906796, tipo: "COLETOR_RECICLAVEL" },
+  { id: 14, nome: "Almofala proximo ao dls", latitude: -2.938704, longitude: -39.829846, tipo: "COLETOR_RECICLAVEL" },
   { id: 15, nome: "EMEF José Aniceto Sales", latitude: -2.919825, longitude: -39.917377, tipo: "COLETOR_RECICLAVEL" },
   { id: 16, nome: "EMEF Professora Altair Giffone Tavares", latitude: -2.942439, longitude: -39.909509, tipo: "COLETOR_RECICLAVEL" },
   { id: 17, nome: "Praça José Cosme de Couto (Porto dos Barcos)", latitude: -2.907238, longitude: -39.885439, tipo: "COLETOR_RECICLAVEL" },
@@ -132,6 +132,8 @@ const PONTOS_COLETA_SELETIVA: PontoColetaSeletiva[] = [
   { id: 101, nome: "Prefeitura Municipal de Itarema", latitude: -2.920012, longitude: -39.915818, tipo: "ILHA_ECOLOGICA" },
   { id: 102, nome: "Praça dos Feirantes", latitude: -2.922933, longitude: -39.913803, tipo: "ILHA_ECOLOGICA" },
   { id: 103, nome: "Centro de Atendimento ao Turista – CAT (Ilha do Guajiru)", latitude: -2.880735, longitude: -39.910581, tipo: "ILHA_ECOLOGICA" },
+  { id: 104, nome: "escola corrego da volta", latitude: -3.063295, longitude: -39.889492, tipo: "ILHA_ECOLOGICA" },
+
 ];
 
 // Limites de segurança. A decisão final do GPS é adaptativa nas funções abaixo.
